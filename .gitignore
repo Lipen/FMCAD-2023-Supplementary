@@ -1,0 +1,25 @@
+## VS Code
+.vscode/
+
+## Jupyter Notebooks
+.ipynb_checkpoints
+
+## R
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+.Rprofile
+.Renviron
+*.Rproj
+.Rproj.user/
+vignettes/*.html
+vignettes/*.pdf
+
+## renv
+renv/
+renv.lock
+
+## Rmarkdown
+*.html
