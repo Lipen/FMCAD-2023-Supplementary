@@ -1,6 +1,6 @@
-# SAT-2023-Supplementary
+# FMCAD-2023-Supplementary
 
-Supplementary materials for SAT 2023 paper "Effective Partitioning Method with Predictable Hardness for CircuitSAT".
+Supplementary materials for FMCAD 2023 paper "Effective Partitioning Method with Predictable Hardness for CircuitSAT".
 
 ## Content
 
